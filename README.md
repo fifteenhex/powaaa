@@ -1,2 +1,2 @@
 # powaaa
-USB-C for rail power supprt
+USB-C four rail power supprt
