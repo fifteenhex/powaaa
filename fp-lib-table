@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name usbc16p)(type KiCad)(uri ${KIPRJMOD}/bb_kicad/footprints/usbc16p.pretty)(options "")(descr ""))
+)

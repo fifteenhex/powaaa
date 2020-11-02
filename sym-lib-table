@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name usbc-16p)(type Legacy)(uri ${KIPRJMOD}/bb_kicad/symbols/usbc-16p.lib)(options "")(descr ""))
+  (lib (name silergy)(type Legacy)(uri ${KIPRJMOD}/bb_kicad/symbols/silergy.lib)(options "")(descr ""))
+  (lib (name injoinic)(type Legacy)(uri ${KIPRJMOD}/bb_kicad/symbols/injoinic.lib)(options "")(descr ""))
+)
